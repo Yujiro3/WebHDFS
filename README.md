@@ -1,5 +1,6 @@
 WebHDFS PHPクライアント
 ======================
+PHP client for Hadoop WebHDFS
 
 利用方法
 ------
